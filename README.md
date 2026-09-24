@@ -11,8 +11,6 @@ production-ready web applications using <strong>ASP.NET Core</strong>,
 
 - 🎓 Computer Engineering Graduate — Banha University (2025)
 - 🏛️ ITI 9-Month Graduate — Professional Dev. & BI-infused CRM Track
-- 💼 AI Prompt Engineer @ Outlier — Evaluated GPT-4, Claude & Gemini
-- 🔨 Currently building: **ClinicEase** — Full clinic management system
 - 🤖 AI Experience: YOLOv8, RAG, Fine-tuning, Multi-modal Agents, n8n
 - 📍 Cairo, Egypt &nbsp;|&nbsp; Open to Work
 
